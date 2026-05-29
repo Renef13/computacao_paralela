@@ -6,5 +6,5 @@
   <component name="EditMigrationStateService">
     <option name="migrationStatus" value="COMPLETED" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="3.10 WSL (Ubuntu): (/home/renef/.virtualenvs/computacao_paralela/bin/python)" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="computacao_paralela" project-jdk-type="Python SDK" />
 </project>
