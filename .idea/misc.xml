@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="Black">
+    <option name="sdkName" value="computacao_paralela" />
+  </component>
   <component name="EditMigrationStateService">
     <option name="migrationStatus" value="COMPLETED" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="deep_learning" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="3.10 WSL (Ubuntu): (/home/renef/.virtualenvs/computacao_paralela/bin/python)" project-jdk-type="Python SDK" />
 </project>
